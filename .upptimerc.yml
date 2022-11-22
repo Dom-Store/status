@@ -11,7 +11,7 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.exitnetwork.dev
   # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://cdn.discordapp.com/attachments/1000859779675205693/1044494735647191091/LOGO_Dom_Store_512x512_Transparente_-_by_Design_Ideal.png
   name: Dom Store
   introTitle: "**Uptime** servidores Dom Store"
   introMessage: Status dos nossos serviços.
