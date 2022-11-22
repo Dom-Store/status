@@ -15,6 +15,7 @@ status-website:
   name: Dom Store
   introTitle: "**Uptime** servidores Dom Store"
   introMessage: Status dos nossos serviços.
+  theme: dark
   navbar:
     - title: Status
       href: /
