@@ -13,7 +13,7 @@ status-website:
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Dom Store
-  introTitle: "**Uptime** Dom Store."
+  introTitle: "**Uptime** servidores Dom Store"
   introMessage: Status dos nossos serviços.
   navbar:
     - title: Status
