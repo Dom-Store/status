@@ -12,12 +12,10 @@ status-website:
   cname: status.exitnetwork.dev
   # baseUrl: /your-repo-name
   logoUrl: https://cdn.discordapp.com/attachments/1000859779675205693/1044494735647191091/LOGO_Dom_Store_512x512_Transparente_-_by_Design_Ideal.png
-  name: Dom Store®
-  introTitle: "**Uptime** servidores Dom Store®"
+  name: Dom Store
+  introTitle: "**Uptime** servidores Dom Store"
   introMessage: Status dos nossos serviços.
   theme: night
-  favicon : https : //cdn.discordapp.com/attachments/1000859779675205693/1044638972527255623/LOGO_Dom_Store_96x96_Transparente_-_by_Design_Ideal.png
-  faviconSvg : https : //cdn.discordapp.com/attachments/1000859779675205693/1044638972527255623/LOGO_Dom_Store_96x96_Transparente_-_by_Design_Ideal.png
   navbar:
     - title: Status
       href: /
@@ -25,6 +23,6 @@ status-website:
       href: https://discord.gg/tBsK5QbpgG
 
 i18n:
-  footer: Powered by [Dom Store®]($REPO)
+  footer: Powered by [Dom Store]($REPO)
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
