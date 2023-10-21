@@ -4,7 +4,7 @@
     "url": "$SECRET_SERVER",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "servidor-baremetal",
-    "status": "up",
+    "status": "down",
     "uptime": "82.04%",
     "uptimeDay": "96.28%",
     "uptimeWeek": "99.47%",
