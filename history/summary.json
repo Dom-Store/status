@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "servidor-baremetal",
     "status": "up",
-    "uptime": "76.33%",
+    "uptime": "76.35%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 110,
-    "timeDay": 149,
-    "timeWeek": 183,
-    "timeMonth": 147,
-    "timeYear": 110,
+    "time": 111,
+    "timeDay": 161,
+    "timeWeek": 170,
+    "timeMonth": 150,
+    "timeYear": 111,
     "dailyMinutesDown": {}
   }
 ]
